@@ -1,0 +1,42 @@
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\bin\Debug\net7.0\BusinessLayer.deps.json
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\bin\Debug\net7.0\BusinessLayer.runtimeconfig.json
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\bin\Debug\net7.0\BusinessLayer.dll
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.dll
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\refint\BusinessLayer.dll
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.pdb
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\BusinessLayer\obj\Debug\net7.0\ref\BusinessLayer.dll
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\bin\Debug\net7.0\BusinessLayer.deps.json
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\bin\Debug\net7.0\BusinessLayer.runtimeconfig.json
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\bin\Debug\net7.0\BusinessLayer.dll
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.dll
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\refint\BusinessLayer.dll
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.pdb
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\BusinessLayer.genruntimeconfig.cache
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\BusinessLayer\obj\Debug\net7.0\ref\BusinessLayer.dll
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\bin\Debug\net7.0\BusinessLayer.deps.json
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\bin\Debug\net7.0\BusinessLayer.runtimeconfig.json
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\bin\Debug\net7.0\BusinessLayer.dll
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\BusinessLayer.AssemblyInfo.cs
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\BusinessLayer.dll
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\refint\BusinessLayer.dll
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\BusinessLayer.pdb
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\BusinessLayer.genruntimeconfig.cache
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\BusinessLayer\obj\Debug\net7.0\ref\BusinessLayer.dll

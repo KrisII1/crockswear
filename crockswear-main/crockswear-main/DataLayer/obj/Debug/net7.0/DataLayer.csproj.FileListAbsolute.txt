@@ -1,0 +1,51 @@
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\bin\Debug\net7.0\DataLayer.runtimeconfig.json
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\bin\Debug\net7.0\BusinessLayer.dll
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CopyComplete
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.dll
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.genruntimeconfig.cache
+C:\Users\Kris\Desktop\fifkata turka\Crockswear\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\bin\Debug\net7.0\DataLayer.runtimeconfig.json
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\bin\Debug\net7.0\BusinessLayer.dll
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CopyComplete
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.dll
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\DataLayer.genruntimeconfig.cache
+C:\Users\Myumyun\Desktop\corckswear-main\Crockswear\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\bin\Debug\net7.0\DataLayer.runtimeconfig.json
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\bin\Debug\net7.0\BusinessLayer.dll
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\bin\Debug\net7.0\BusinessLayer.pdb
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CopyComplete
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\DataLayer.dll
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\DataLayer.genruntimeconfig.cache
+C:\Iliev\School (2023 - 2024)\Резултати\СИ - УП\Е\I\crockswear-main\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll
